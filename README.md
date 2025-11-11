@@ -1,9 +1,3 @@
-# Numiq
-Numiq is an advanced all-in-one calculator for math, physics, chemistry, and engineering. Solve equations, formulas, and conversions instantly with smart precision. Perfect for students and professionals, Numiq combines speed, accuracy, and modern design in one powerful app.
-# 🧮 Numiq – Advanced Multi-Science Calculator
-
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-
 **Numiq** (formerly *Numera Calculator*) is a modern, intelligent calculator built with **React + TypeScript + Vite**.  
 It provides accurate, fast, and user-friendly computation for **Math, Physics, Chemistry**, and **Engineering** — ideal for **students, researchers, and professionals**.
 
@@ -41,3 +35,16 @@ It provides accurate, fast, and user-friendly computation for **Math, Physics, C
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/jan6088177/Numiq.git
+2️⃣ Navigate into project
+bash
+Copy code
+cd Numiq
+3️⃣ Install dependencies
+bash
+Copy code
+npm install
+4️⃣ Run the app
+bash
+Copy code
+npm run dev
+Open your browser at http://localhost:5173.
